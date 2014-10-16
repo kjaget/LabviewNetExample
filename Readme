@@ -1,0 +1,7 @@
+Simple client server test program
+.exe and .dll included to run standalone.  If you have cygwin
+installed, you don't need this DLL and should probably use the one installed
+in cygwin instead.  
+
+Build using supplied Makefile - just type make from the command line
+
